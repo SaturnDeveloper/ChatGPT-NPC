@@ -1,0 +1,17 @@
+Die Zahlenfolgen stellen eine Karte dar
+660000005
+010220304
+01A200304
+000000304
+
+Legende:
+A: Aktuelle Position
+0: Gehbarer bereich
+1: Taverne 
+2: Schmiede
+3: Werkstatt
+4: Alchemist
+5: Wachhaus
+6: Barbier
+
+Gib mir eine Wegbeschreibung zum Alchemisten gib mir eine wenig detailierte beschreibung des Weges als wärst du vor ort und nutz umgebungsdaten; Nutz keine formatierung
